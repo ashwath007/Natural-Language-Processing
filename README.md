@@ -11,7 +11,7 @@
   <h3 align="center">NLP Learning | Practice</h3>
 
   <p align="center">
-    This repo is open to comtribution on NLP
+    This repo is open for contribution on NLP
     <br />
     <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
     <br />
